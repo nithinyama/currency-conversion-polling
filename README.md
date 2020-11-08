@@ -1,6 +1,6 @@
 ### Steps to execute
 
-* Go to the location of pom file inside the directory
+* Go to the location of pom file
 
 * Build and generate the jar using the following command
 	
